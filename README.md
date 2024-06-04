@@ -1,8 +1,25 @@
-# React + Vite
+# tarasq.fr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Heyo cherère lecteurice, tu clones le repo, tu installes les modules (là c'est le front donc NodeJS) et tu lances le serveur avec "npm run dev" :))
 
-Currently, two official plugins are available:
+```bash
+git clone https://github.com/Tarasqv2/tarasq.fr.git
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+cd tarasq.fr
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+## Stack front
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Node](https://nodejs.org/)
